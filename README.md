@@ -1,4 +1,10 @@
-This is a [LlamaIndex](https://www.llamaindex.ai/) project using [Next.js](https://nextjs.org/) bootstrapped with [`create-llama`](https://github.com/run-llama/LlamaIndexTS/tree/main/packages/create-llama).
+## Welcome to EffectzGPT TypeScript implementation
+### EffectzGPT => Easy Workflow Automations with LLMs.
+EffectzGPT helps you quickly develop **Enterprise Workflow Automation Applications** powered by **Large Language Models (LLMs)**. It is specially designed for building scalable apps that require advanced reasoning over data. It has been used in both real-world business applications and cutting-edge research. EffectzGPT makes developing powerful AI-driven workflow automation applications simple, even if you're not an AI expert. EffectzGPT has been developed using [LlamaIndex](https://github.com/run-llama/llama_index).
+
+[This](https://github.com/effectz-ai/effectz-gpt) is the more advanced python version. The current TypeScript version doesn’t include all the advanced features available in the Python version.
+
+This is a [LlamaIndex](https://www.llamaindex.ai/) project using [Next.js](https://nextjs.org/) 
 
 ## Getting Started
 
